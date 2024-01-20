@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.html{
+	color:white;
+	background:black;
+}
+table{
+	width: 100%;
+}
+td{
+	padding-left:50px
+}
